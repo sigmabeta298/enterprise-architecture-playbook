@@ -15,7 +15,17 @@ Most diagrams describe structure. Fewer describe behavior. Fewer still describe 
 * **Failure is part of the design surface:** A system is incomplete if its behavior under partial failure is undefined or assumed.
 * **Scale changes the problem, not just the size:** What works at small scale often fails in structure, not performance. Good architecture anticipates that shift.
 
----
+## 📂 Playbook Architecture & Navigation Map
+
+```text
+enterprise-architecture-playbook/
+├── case-studies/
+│   └── 01-scheduled-batch-dispatch/   <-- Mass transactional messaging under constraints
+├── architecture-patterns/             <-- Reusable production topologies
+├── templates/                         <-- High-signal RFC & ADR governance frameworks
+└── assets/                            <-- Static design artifacts and media
+
+```
 
 ## 📂 What This Repository Is
 
