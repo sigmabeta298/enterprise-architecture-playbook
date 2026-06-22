@@ -26,7 +26,7 @@ Business Rule Evaluation Layer
 ▼
 State Update + Notification Dispatch
 ```
-![Architecture Diagram](./diagrams/architecture.png)
+![Architecture Diagram](./diagrams/Architecture.png)
 ---
 
 ## Core Components
